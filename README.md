@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @edwardabah29
-- 👀 I’m interested in flutter
-- 🌱 I’m always learning
-- 💞️ I’m looking to collaborate on tech projects
+- 👋 Hi, I’m @edwardabah29.
+- 👀 I’m interested in flutter.
+- 🌱 I’m always learning.
+- 💞️ I’m looking to collaborate on tech projects.
 - 📫 How to reach me: send an owl.
 
 <!---
